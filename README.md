@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GustavoTroiano
 - 👀 I’m interested in learn
 - 🌱 I’m currently learning java and vue
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me learn and studying
+- 💞️ I’m looking to collaborate on learn and studying
 
 <!---
 GustavoTroiano/GustavoTroiano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
