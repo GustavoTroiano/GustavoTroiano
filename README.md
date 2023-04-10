@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GustavoTroiano
 - 👀 I’m interested in learn
-- 🌱 I’m currently learning java and vue
+- 🌱 I’m currently learning java and react
 - 💞️ I’m looking to collaborate on learn and studying
 
 <!---
